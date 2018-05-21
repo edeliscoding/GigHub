@@ -55,3 +55,23 @@ body, h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h5{
     padding: 7px 20px;
     font-size: 18px;
 }
+
+navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus {
+    color: #ffffff;
+    background-color: #f63434;
+}
+
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
+    color: #ffffff;
+    text-decoration: none;
+    background-color: #e93e2a;
+}
+
+.dropdown-menu {
+    font-size: 16px;
+    list-style: none;
+}
+
+.navbar-brand {
+    font-weight: 700;
+}
