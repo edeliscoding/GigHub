@@ -74,4 +74,6 @@ C:\Users\edelreich\Documents\GitHub\GigHub\GigHub\GigHubApp\GigHub\obj\Debug\Gig
 C:\Users\edelreich\Documents\GitHub\GigHub\GigHub\GigHubApp\GigHub\obj\Debug\GigHub.Migrations.OverrideConventionsForGigsandGenres.resources
 C:\Users\edelreich\Documents\GitHub\GigHub\GigHub\GigHubApp\GigHub\obj\Debug\GigHub.Migrations.PopulateGenresTable.resources
 C:\Users\edelreich\Documents\GitHub\GigHub\GigHub\GigHubApp\GigHub\obj\Debug\GigHub.Migrations.AddForeignKeyProprtiesToGig.resources
+C:\Users\edelreich\Documents\GitHub\GigHub\GigHub\GigHubApp\GigHub\obj\Debug\GigHub.Migrations.AddNametoApplicationUser.resources
+C:\Users\edelreich\Documents\GitHub\GigHub\GigHub\GigHubApp\GigHub\obj\Debug\GigHub.Migrations.AddNametoApplicationUser1.resources
 C:\Users\edelreich\Documents\GitHub\GigHub\GigHub\GigHubApp\GigHub\obj\Debug\GigHub.csprojResolveAssemblyReference.cache
